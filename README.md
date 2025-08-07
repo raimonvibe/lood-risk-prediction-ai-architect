@@ -1,5 +1,7 @@
 # 🌊 Flood Risk Prediction Model 🌧️
 
+![Flood Risk Prediction](floodrisk.png)
+
 ## 📝 Overview
 Welcome to the **Flood Risk Prediction Model**! 🚨 This project leverages machine learning to predict flood risk based on environmental features like elevation, rainfall, soil type, and proximity to water bodies. It includes a training script (`cmodel_1.py`), a **FastAPI** backend (`api.py`), and a **Streamlit** frontend (`frontend.py`) with an interactive map 🗺️ for a seamless user experience. Ideal for researchers, developers, or anyone interested in flood risk assessment! 😄
 
@@ -207,3 +209,4 @@ For questions, use [GitHub Issues](https://github.com/opeblow/flood-risk-predict
 
 ## 🔗 Credits
 Built with ❤️ using [opeblow/flood-risk-prediction-model](https://github.com/opeblow/flood-risk-prediction-model). Enhanced with map integration and API auto-fill by Grok, created by xAI. 🚀
+
